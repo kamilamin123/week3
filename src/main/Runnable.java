@@ -1,4 +1,4 @@
-package week3;
+package main;
 
 import java.util.Arrays;
 import java.util.NavigableSet;

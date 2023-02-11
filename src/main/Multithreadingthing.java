@@ -1,4 +1,4 @@
-package week3;
+package main;
 
 public class Multithreadingthing extends Thread {
 	private int threadNumber;
